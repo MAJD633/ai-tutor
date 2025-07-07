@@ -31,7 +31,8 @@ This is especially useful for:
 - Adults doing self-learning
 - Teachers needing support in classrooms
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Artificial_Intelligence_in_Education.png/640px-Artificial_Intelligence_in_Education.png" width="400">
+<img src="https://cdn.pixabay.com/photo/2018/07/18/17/39/artificial-intelligence-3542425_960_720.jpg" width="400">
+
 
 ## Data sources and AI methods
 
